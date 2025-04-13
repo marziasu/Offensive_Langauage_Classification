@@ -66,13 +66,13 @@ Each feedback entry can belong to one or more of these categories.
 
 ## Steps to Run the Code
 
-    Clone the Repository
+Clone the Repository
 
-git clone https://github.com/yourusername/offensive-language-classification.git
+    git clone https://github.com/yourusername/offensive-language-classification.git
 
-cd offensive-language-classification
+    cd offensive-language-classification
 
-    Run the Notebooks
+Run the Notebooks
 
     Baseline (Logistic Regression & Random Forest) and LSTM:
     Code is in task/model1_implementation.ipynb or .py
@@ -81,6 +81,7 @@ cd offensive-language-classification
     Code is in task/model2_implementation.ipynb or .py
 
 Use Jupyter Notebook or Colab to execute.
+
 ## Model Evaluation Results
 | Metric           | Logistic Regression | Random Forest     | LSTM   | BERT       |
 |------------------|---------------------|-------------------|--------|------------|
